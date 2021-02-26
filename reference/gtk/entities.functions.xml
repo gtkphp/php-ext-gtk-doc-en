@@ -1,0 +1,3 @@
+&reference.gtk.functions.gtk-init;
+&reference.gtk.functions.gtk-main-quit;
+&reference.gtk.functions.gtk-main;
